@@ -210,3 +210,4 @@ For reference, here are some examples of this separation in production applicati
 Files are licensed under the [MIT license](./LICENSE).
 
 <a href="./LICENSE"><img src="https://user-images.githubusercontent.com/35039927/231030761-66f5ce58-a4e9-4695-b1fe-255b1bceac92.png" alt="License information" width="200" /></a>
+This project is a demonstration of blockchain technology and smart contract integration.
